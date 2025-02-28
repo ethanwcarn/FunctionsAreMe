@@ -1,5 +1,5 @@
 import random
-from soccer_game_utils import get_strPlayerName, display_intMenu, choose_strTeam, play_strGame, display_finalRecord
+from sfunctions1thru5 import get_strPlayerName, display_intMenu, choose_strTeam, play_strGame, display_finalRecord
 
 def main():
     str_playerName = get_strPlayerName()
